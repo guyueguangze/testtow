@@ -21,7 +21,7 @@ export default function Editor() {
       setCode('//please')
     } else {
       axios
-        .get('/test/js/' + value + '.js')
+        .get('/testtow/js/' + value + '.js')
         .then((res) => {
           setCode(res.data)
         })
