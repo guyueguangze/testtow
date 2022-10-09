@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/testtow/static/css/main.71fbb0cd.css",
+    "main.js": "/testtow/static/js/main.3da1ccc1.js",
+    "static/css/321.72c6fe5c.chunk.css": "/testtow/static/css/321.72c6fe5c.chunk.css",
+    "static/js/321.84af2c9d.chunk.js": "/testtow/static/js/321.84af2c9d.chunk.js",
+    "static/css/377.18ac6487.chunk.css": "/testtow/static/css/377.18ac6487.chunk.css",
+    "static/js/377.8ac55f70.chunk.js": "/testtow/static/js/377.8ac55f70.chunk.js",
+    "static/js/51.b486b16d.chunk.js": "/testtow/static/js/51.b486b16d.chunk.js",
+    "static/js/52.eb906730.chunk.js": "/testtow/static/js/52.eb906730.chunk.js",
+    "index.html": "/testtow/index.html",
+    "main.71fbb0cd.css.map": "/testtow/static/css/main.71fbb0cd.css.map",
+    "main.3da1ccc1.js.map": "/testtow/static/js/main.3da1ccc1.js.map",
+    "321.72c6fe5c.chunk.css.map": "/testtow/static/css/321.72c6fe5c.chunk.css.map",
+    "321.84af2c9d.chunk.js.map": "/testtow/static/js/321.84af2c9d.chunk.js.map",
+    "377.18ac6487.chunk.css.map": "/testtow/static/css/377.18ac6487.chunk.css.map",
+    "377.8ac55f70.chunk.js.map": "/testtow/static/js/377.8ac55f70.chunk.js.map",
+    "51.b486b16d.chunk.js.map": "/testtow/static/js/51.b486b16d.chunk.js.map",
+    "52.eb906730.chunk.js.map": "/testtow/static/js/52.eb906730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fbb0cd.css",
+    "static/js/main.3da1ccc1.js"
+  ]
+}
